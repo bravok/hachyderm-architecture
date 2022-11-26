@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Kris Nóva owns and operates a Mastodon microblogging service at [Hachyderm.io](https://hachderm.io)
+Kris Nóva owns and operates a Mastodon microblogging service at [Hachyderm.io](https://hachyderm.io)
 
 Nóva provides insight into the architecture and operation of the site at [her blog](https://medium.com/@kris-nova)
 
