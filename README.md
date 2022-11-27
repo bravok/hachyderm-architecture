@@ -18,5 +18,9 @@ Feedback is requested, if you are inclined.
 
 ## References
 
-1. https://medium.com/@kris-nova/hachyderm-infrastructure-74f518bc7472
-2. https://docs.joinmastodon.org/admin/scaling/
+1. https://medium.com/@kris-nova/operating-mastodon-privacy-and-content-399eef251e65
+2. https://medium.com/@kris-nova/hachyderm-infrastructure-74f518bc7472
+3. https://docs.joinmastodon.org/admin/scaling/
+4. https://hachyderm.io/about
+
+
