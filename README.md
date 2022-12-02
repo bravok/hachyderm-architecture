@@ -12,9 +12,13 @@ Feedback is requested, if you are inclined.
 
 ## Enterprise Architecture
 
-## November 2022 Baseline
+### November 2022 Baseline
 
 ![Hachyderm architecture as of November 2022](hachyderm-io-baseline-view.png)
+
+### November 2022 Migration to Europe
+
+![Infrastructure Migration, November 2022](2022-11-migration-view.png)
 
 ## Why Archimate?
 
